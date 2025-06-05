@@ -10,14 +10,14 @@ This project demonstrates real-time color detection using OpenCV and Python. It 
 
 ## Requirements
 
-See [requirements.txt](requirements.txt) for dependencies:
+See [requirements.txt](https://github.com/BenedictRaymond/Color-Detection-using-HSV/blob/master/requirements.txt) for dependencies:
 - opencv-python
 - Pillow
 - numpy
 
 Install dependencies with:
 ```sh
-pip install -r [requirements.txt](http://_vscodecontentref_/0)
+pip install -r requirements.txt
 ```
 
 
